@@ -115,6 +115,7 @@ public class MovieMethod {
 					//hall<database>.hall(hall)<table>
 					//좌석 기준 정보테이블 내용을 상영관을 기준으로 
 					//T(hall)(timecode)(time)<table>에 복사한다.
+					System.out.println("상영시간표 등록 완료되었습니다.");
 		   }//end of NMT
 	
 	

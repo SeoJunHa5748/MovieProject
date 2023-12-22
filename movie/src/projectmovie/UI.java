@@ -19,6 +19,7 @@ main :   while(true) {
          
          switch(num) {
          case 1:  // 영화 예매
+        	 prompt.Prompt_main_Reserv();
              mm.BuyTicket();           
              break;
              
